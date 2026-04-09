@@ -1,4 +1,4 @@
-# �� PHASES.md — Plan de Desarrollo por Fases
+# PHASES.md — Plan de Desarrollo por Fases
 
 > Cada fase es una unidad completa: frontend + backend + base de datos.
 > Flujo de trabajo: **desarrollar → dockerizar → testear → aprobar → siguiente fase**.
